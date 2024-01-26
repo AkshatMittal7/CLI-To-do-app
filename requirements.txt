@@ -1,0 +1,6 @@
+typer==0.3.2
+colorama==0.4.4
+shellingham==1.4.0
+pytest==6.2.4
+
+#users can automatically install the listed dependencies by running python -m pip install -r requirements.txt
